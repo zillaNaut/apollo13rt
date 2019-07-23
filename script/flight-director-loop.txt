@@ -2898,7 +2898,7 @@ CONTROL here.
 Keep reminding me of that heater; now I don't want to let that thing go too long.
 
 [57 19 40 - 57 19 48] CONTROL
-Okay. We're still trying to get some data - substantiating data on that, FLIGHT. My own personal opinion is the sooner we can take care of that, the better off I'm going to feel about it.
+Okay. We're still trying to get some data - substantiating data on that, FLIGHT. My own personal feeling is the sooner we can take care of that, the better off I'm going to feel about it.
 
 [57 19 49 - 57 19 50] FLIGHT
 Yeah, okay, Hal. Go get 'em.
